@@ -1,0 +1,20 @@
+[
+    {
+        "name": "lakha",
+        "roll_number": 4,
+        "subject": [
+            76,
+            95,
+            45
+        ]
+    },
+    {
+        "name": "naitik",
+        "roll_number": 67,
+        "subject": [
+            37,
+            57,
+            49
+        ]
+    }
+]
